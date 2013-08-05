@@ -2,8 +2,6 @@ C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\bin\Debug\Bilbana
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\bin\Debug\Bilbana.exe
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\bin\Debug\Bilbana.pdb
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.csprojResolveAssemblyReference.cache
-C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\MainWindow.baml
-C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\MainWindow.g.cs
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\App.g.cs
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana_MarkupCompile.cache
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.g.resources
@@ -11,3 +9,5 @@ C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.csproj.GenerateResource.Cache
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.exe
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.pdb
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\EditorView.baml
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\EditorView.g.cs
