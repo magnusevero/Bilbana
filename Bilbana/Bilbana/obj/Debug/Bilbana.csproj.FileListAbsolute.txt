@@ -9,5 +9,7 @@ C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.csproj.GenerateResource.Cache
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.exe
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Bilbana.pdb
-C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\EditorView.baml
-C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\EditorView.g.cs
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Editor\EditorView.baml
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Editor\EditorView.g.cs
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\StartScreen.baml
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\StartScreen.g.cs

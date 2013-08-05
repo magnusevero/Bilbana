@@ -1,7 +1,7 @@
-﻿<Window x:Class="Bilbana.MainWindow"
+﻿<Window x:Class="Bilbana.Editor.EditorView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Bilbana - Editor" Height="350" Width="525">
+        Title="EditorView" Height="300" Width="300">
     <Grid>
         
     </Grid>
