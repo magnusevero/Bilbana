@@ -2,7 +2,7 @@
 
 namespace Bilbana.Editor
 {
-	public class EditorViewModel:ViewModelBase
+	public class EditorViewModel : ViewModelBase
 	{
 	}
 }

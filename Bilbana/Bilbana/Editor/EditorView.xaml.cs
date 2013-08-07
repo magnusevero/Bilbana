@@ -7,6 +7,7 @@ namespace Bilbana.Editor
 		public EditorView()
 		{
 			InitializeComponent();
+			DataContext = new EditorViewModel();
 		}
 	}
 }

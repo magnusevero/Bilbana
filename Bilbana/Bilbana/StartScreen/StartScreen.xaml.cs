@@ -1,15 +1,13 @@
 ﻿using System.Windows;
 
-namespace Bilbana
+namespace Bilbana.StartScreen
 {
-	/// <summary>
-	/// Interaction logic for MainWindow.xaml
-	/// </summary>
 	public partial class MainWindow : Window
 	{
 		public MainWindow()
 		{
 			InitializeComponent();
+			DataContext = new StartScreenViewModel();
 		}
 	}
 }
