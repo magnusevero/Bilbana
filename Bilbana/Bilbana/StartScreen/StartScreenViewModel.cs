@@ -33,7 +33,8 @@ namespace Bilbana.StartScreen
 
 		private void EditTrack()
 		{
-			int tre = 3;
+			var editorView = new Editor.EditorView();
+			editorView.Show();
 		}
 	}
 }
