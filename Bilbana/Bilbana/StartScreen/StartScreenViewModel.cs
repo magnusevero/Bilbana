@@ -1,5 +1,6 @@
 ﻿using System.Windows.Input;
 using Bilbana.BaseClasses;
+using Bilbana.Editor;
 
 namespace Bilbana.StartScreen
 {
@@ -33,7 +34,7 @@ namespace Bilbana.StartScreen
 
 		private void EditTrack()
 		{
-			var editorView = new Editor.EditorView();
+			var editorView = new EditorView();
 			editorView.Show();
 		}
 	}
