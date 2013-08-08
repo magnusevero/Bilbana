@@ -54,7 +54,15 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="BaseClasses\RelayCommand.cs" />
+    <Compile Include="Race\RaceView.xaml.cs">
+      <DependentUpon>RaceView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Race\RaceViewModel.cs" />
     <Compile Include="StartScreen\StartScreenViewModel.cs" />
+    <Page Include="Race\RaceView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="StartScreen\StartScreen.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

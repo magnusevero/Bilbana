@@ -1,11 +1,16 @@
 ﻿using System.Windows.Input;
 using Bilbana.BaseClasses;
 using Bilbana.Editor;
+using Bilbana.Race;
+
 
 namespace Bilbana.StartScreen
 {
 	public class StartScreenViewModel : ViewModelBase
 	{
+		private EditorView _editorView;
+		private RaceView _raceView;
+
 		public ICommand RunGameCommand { get; set; }
 		public ICommand EditTrackCommand { get; set; }
 
@@ -28,13 +33,16 @@ namespace Bilbana.StartScreen
 
 		private void RunGame()
 		{
-			int hejs = 12;
-			//do nothing
+			if (_raceView == null)
+				_raceView = new RaceView();
+			_raceView.Show();
 		}
 
 		private void EditTrack()
 		{
-			new EditorView().Show();
+			if (_editorView == null)
+				_editorView = new EditorView();
+			_editorView.Show();
 		}
 	}
 }
