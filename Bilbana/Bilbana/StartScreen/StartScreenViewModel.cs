@@ -34,8 +34,7 @@ namespace Bilbana.StartScreen
 
 		private void EditTrack()
 		{
-			var editorView = new EditorView();
-			editorView.Show();
+			new EditorView().Show();
 		}
 	}
 }
