@@ -57,6 +57,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="BaseClasses\RelayCommand.cs" />
+    <Compile Include="Editor\IEditorViewModel.cs" />
     <Compile Include="Models\RacePiece.cs" />
     <Compile Include="Models\RacePieceTests.cs" />
     <Compile Include="Models\RaceTrackTests.cs" />
