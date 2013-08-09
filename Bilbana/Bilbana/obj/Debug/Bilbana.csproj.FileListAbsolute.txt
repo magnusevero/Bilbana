@@ -15,3 +15,4 @@ C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\StartSc
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\StartScreen\StartScreen.g.cs
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Race\RaceView.baml
 C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\obj\Debug\Race\RaceView.g.cs
+C:\Users\magnuse\Dropbox\GitRepository\Bilbana\Bilbana\Bilbana\bin\Debug\nunit.framework.dll
